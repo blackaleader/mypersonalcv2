@@ -1654,10 +1654,6 @@ textarea.form-input::-webkit-resizer { display: none; }
   
 }
 
-
-
-
-
 /**
  * responsive larger than 1024px screen
  */
@@ -1848,7 +1844,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .sidebar-info { flex-direction: column; }
 
-  .avatar-box img { width: 150px; }
+  .avatar-box img { width: 200px; }
 
   .info-content .name {
     white-space: nowrap;
